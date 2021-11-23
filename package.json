@@ -1,5 +1,5 @@
 {
-  "name": "Helga",
+  "name": "Dhanz",
   "version": "0.0.1",
   "description": "bitch-boot",
   "main": "node index",
@@ -11,7 +11,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "termux",
+    "replit",
     "whatsapp",
     "bot",
     "whatsapp",
